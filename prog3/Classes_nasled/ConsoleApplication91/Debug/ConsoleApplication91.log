@@ -1,0 +1,5 @@
+﻿  ConsoleApplication91.cpp
+  Source.cpp
+  Создание кода...
+c:\users\1\source\repos\consoleapplication91\consoleapplication91\source.cpp(84): warning C4717: VintagePort::operator=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  ConsoleApplication91.vcxproj -> C:\Users\1\source\repos\ConsoleApplication91\Debug\ConsoleApplication91.exe
